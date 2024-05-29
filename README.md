@@ -1,8 +1,10 @@
-# CS 489 Music Genre Classification with Machine Learning
+# Music Genre Classification with Machine Learning
 
 Using neural networks to classify music based on genre.
 
 ---
+
+Please refer to the CS 489 Music Genre Classification.ipynb notebook to see the entire project documented and explained. 
 
 
 ## Introduction
